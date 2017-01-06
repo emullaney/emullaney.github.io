@@ -22,7 +22,7 @@ I've worked on the spam moderation pieces of the [Mozilla Developer Network](htt
 This is going to be a deep dive into RapidPro's functionality and an overview of TracPro which is a dashboard add-on to RapidPro. This conference is coming up in February 2017. [PyCaribbean 2017](http://pycaribbean.com/)
 
 #### RapidCon 2016: TracPro - How it Works & What It Does
-This was a technical deep dive into TracPro which is a dashboard add-on to RapidPro which we custom designed for UNICEF at Caktus. RapidCon is a small invite-only conference for RapidPro developers hosted by UNICEF. I gave this talk in November 2016 at the second annual RapidCon.
+This was a technical deep dive into TracPro which is a dashboard add-on to RapidPro which we custom designed for UNICEF at Caktus. RapidCon is a small invite-only conference for RapidPro developers hosted by UNICEF. I gave this talk in November 2016 at the second annual RapidCon. [My RapidCon Recap](https://www.caktusgroup.com/blog/2016/11/16/rapidcon-2016-rapidpro-developers-recap/)
 
 #### Raleigh Women in Tech Summit 2016: Staying a Woman in Tech 
 I submitted, organized and spoke on this panel on October 1, 2016. [Staying a Woman in Tech Panel description](http://womenintechsummit.net/raleigh_session/staying-a-woman-in-tech/). 
