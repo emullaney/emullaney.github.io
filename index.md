@@ -16,26 +16,26 @@ I worked on [TracPro](https://github.com/rapidpro/tracpro), a dashboard add-on, 
 #### MDN: Mozilla Developer Network
 I've worked on the spam moderation pieces of the [Mozilla Developer Network](https://developer.mozilla.org/en-US/) wiki in order to drastically cut down on the time it takes admins to clear out spam and ban users. Work was forked off of the [Mozilla Kuma repository](https://github.com/mozilla/kuma). 
 
-#### Speaking
+### Speaking
 
-###### PyCaribbean 2017: Reach More People: SMS Data Collection with RapidPro
+#### PyCaribbean 2017: Reach More People: SMS Data Collection with RapidPro
 This is going to be a deep dive into RapidPro's functionality and an overview of TracPro which is a dashboard add-on to RapidPro. This conference is coming up in February 2017. [PyCaribbean 2017](http://pycaribbean.com/)
 
-###### RapidCon 2016: TracPro - How it Works & What It Does
+#### RapidCon 2016: TracPro - How it Works & What It Does
 This was a technical deep dive into TracPro which is a dashboard add-on to RapidPro which we custom designed for UNICEF at Caktus. RapidCon is a small invite-only conference for RapidPro developers hosted by UNICEF. I gave this talk in November 2016 at the second annual RapidCon.
 
-###### Raleigh Women in Tech Summit 2016: Staying a Woman in Tech 
+#### Raleigh Women in Tech Summit 2016: Staying a Woman in Tech 
 I submitted, organized and spoke on this panel on October 1, 2016. [Staying a Woman in Tech Panel description](http://womenintechsummit.net/raleigh_session/staying-a-woman-in-tech/). 
 
-###### PyData Carolinas 2016: Reach More People: SMS Data Collection with RapidPro
+#### PyData Carolinas 2016: Reach More People: SMS Data Collection with RapidPro
 We presented a RapidPro talk with a focus on data collection and on using RapidPro's API to create your own data visualizations. [PyData Carolinas Talk Recording](https://www.youtube.com/watch?v=aiJMjBq1Ork).
 
-###### Pycon 2016: Leveraging Text Messaging in 2016 with RapidPro
+#### Pycon 2016: Leveraging Text Messaging in 2016 with RapidPro
 I submitted and co-presented at this talk in May 2016 at Pycon.
 [RapidPro Presentation Description](https://us.pycon.org/2016/schedule/presentation/2265/)
 
 
-#### Get in Touch
+### Get in Touch
 
 - [@_erin_rachel](http://www.twitter.com/_erin_rachel)
 - [www.erinwyher.com](www.erinwyher.com)
