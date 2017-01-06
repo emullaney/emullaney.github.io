@@ -18,6 +18,9 @@ I've worked on the spam moderation pieces of the [Mozilla Developer Network](htt
 
 #### Speaking
 
+###### PyCaribbean 2017: Reach More People: SMS Data Collection with RapidPro
+This is going to be a deep dive into RapidPro's functionality and an overview of TracPro which is a dashboard add-on to RapidPro. This conference is coming up in February 2017. [PyCaribbean 2017](http://pycaribbean.com/)
+
 ###### RapidCon 2016: TracPro - How it Works & What It Does
 This was a technical deep dive into TracPro which is a dashboard add-on to RapidPro which we custom designed for UNICEF at Caktus. RapidCon is a small invite-only conference for RapidPro developers hosted by UNICEF. I gave this talk in November 2016 at the second annual RapidCon.
 
