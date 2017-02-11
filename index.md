@@ -14,7 +14,7 @@ I developed the [Community Portal for RapidPro](https://community.rapidpro.io/) 
 I worked on [TracPro](https://github.com/rapidpro/tracpro), a dashboard add-on, custom designed for UNICEF. The add-on allows country offices to quickly build additional, more complex reports. I worked on updating all time-based charts and maps for the entire site utilizing [HighCharts](http://www.highcharts.com/) and [HighMaps](http://www.highcharts.com/maps) for visualizations. 
 
 #### MDN: Mozilla Developer Network
-I've worked on the spam moderation pieces of the [Mozilla Developer Network](https://developer.mozilla.org/en-US/) wiki in order to drastically cut down on the time it takes admins to clear out spam and ban users. Work was forked off of the [Mozilla Kuma repository](https://github.com/mozilla/kuma). 
+I've worked on the spam moderation pieces of the [Mozilla Developer Network](https://developer.mozilla.org/en-US/) wiki in order to drastically cut down on the time it takes admins to clear out spam and ban users. Work was forked off of the [Mozilla Kuma repository](https://github.com/mozilla/kuma). The Mozilla team was very [impressed with this project work](https://groups.google.com/forum/#!topic/mozilla.dev.mdn/phVYeWfRlWc) and extended our contract.
 
 ### Speaking
 
@@ -37,5 +37,4 @@ I submitted and co-presented at this talk in May 2016 at Pycon.
 
 ### Get in Touch
 
-- [@_erin_rachel](http://www.twitter.com/_erin_rachel)
-- [www.erinwyher.com](www.erinwyher.com)
+- erinwyher @ gmail
