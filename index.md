@@ -1,7 +1,7 @@
 ### Erin Mullaney @emullaney
 I have a degree in computer science and have developed applications and designed databases for over fourteen years. I develop applications primarily using the following technology stack: Python, Django, jQuery, LESS, HTML5 and CSS3, with a focus on performance and elegant reusable code.
 
-I love what I do and want to use my design and programming skills to make life easier and improve the world.
+I love what I do and want to use my design and programming skills to make life easier and improve other people's jobs.
 
 ### Open-Source Projects I've worked on
 
@@ -18,8 +18,11 @@ I've worked on the spam moderation pieces of the [Mozilla Developer Network](htt
 
 ### Speaking
 
+#### Women in Tech Summit Philadelphia 2017: Uniqueness is an Advantage – For You & Your Company
+I created a panel discussion in 2016 called Staying a Woman in Tech. That panel is being merged into this new panel on diversity in tech as a positive advantage. The panel will take place in April in Philadelphia. [Women in Tech Summit Philadelphia](http://womenintechsummit.net/philly_session/uniqueness-is-an-advantage-for-you-your-company/)
+
 #### PyCaribbean 2017: Reach More People: SMS Data Collection with RapidPro
-This is going to be a deep dive into RapidPro's functionality and an overview of TracPro which is a dashboard add-on to RapidPro. This conference is coming up in February 2017. [PyCaribbean 2017](http://pycaribbean.com/)
+This is going to be a deep dive into RapidPro's functionality and an overview of TracPro which is a dashboard add-on to RapidPro. This conference was in February 2017. [PyCaribbean 2017](http://pycaribbean.com/)
 
 #### RapidCon 2016: TracPro - How it Works & What It Does
 This was a technical deep dive into TracPro which is a dashboard add-on to RapidPro which we custom designed for UNICEF at Caktus. RapidCon is a small invite-only conference for RapidPro developers hosted by UNICEF. I gave this talk in November 2016 at the second annual RapidCon. [My RapidCon Recap](https://www.caktusgroup.com/blog/2016/11/16/rapidcon-2016-rapidpro-developers-recap/)
