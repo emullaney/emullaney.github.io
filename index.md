@@ -22,16 +22,16 @@ I've worked on the spam moderation pieces of the [Mozilla Developer Network](htt
 I created a panel discussion in 2016 called Staying a Woman in Tech. That panel is being merged into this new panel on diversity in tech as a positive advantage. The panel will take place in April in Philadelphia. [Women in Tech Summit Philadelphia](http://womenintechsummit.net/philly_session/uniqueness-is-an-advantage-for-you-your-company/)
 
 #### PyCaribbean 2017: Reach More People: SMS Data Collection with RapidPro
-This is going to be a deep dive into RapidPro's functionality and an overview of TracPro which is a dashboard add-on to RapidPro. This conference was in February 2017. [PyCaribbean 2017](http://pycaribbean.com/)
+This was a deep dive into RapidPro's functionality and an overview of TracPro which is a dashboard add-on to RapidPro. This conference was in February 2017. [PyCaribbean 2017](http://pycaribbean.com/)
 
 #### RapidCon 2016: TracPro - How it Works & What It Does
 This was a technical deep dive into TracPro which is a dashboard add-on to RapidPro which we custom designed for UNICEF at Caktus. RapidCon is a small invite-only conference for RapidPro developers hosted by UNICEF. I gave this talk in November 2016 at the second annual RapidCon. [My RapidCon Recap](https://www.caktusgroup.com/blog/2016/11/16/rapidcon-2016-rapidpro-developers-recap/)
 
 #### Raleigh Women in Tech Summit 2016: Staying a Woman in Tech 
-I submitted, organized and spoke on this panel on October 1, 2016. [Staying a Woman in Tech Panel description](http://womenintechsummit.net/raleigh_session/staying-a-woman-in-tech/). Read more in [our moderator's post on Medium](https://medium.com/@TWelsonRossman/staying-a-women-in-tech-a-moderators-view-6bbe93b3929d).
+I submitted, organized and spoke on this panel in October 2016. [Staying a Woman in Tech Panel description](http://womenintechsummit.net/raleigh_session/staying-a-woman-in-tech/). Read more in [our moderator's post on Medium](https://medium.com/@TWelsonRossman/staying-a-women-in-tech-a-moderators-view-6bbe93b3929d).
 
 #### PyData Carolinas 2016: Reach More People: SMS Data Collection with RapidPro
-We presented a RapidPro talk with a focus on data collection and on using RapidPro's API to create your own data visualizations. [PyData Carolinas Talk Recording](https://www.youtube.com/watch?v=aiJMjBq1Ork).
+We presented a RapidPro talk with a focus on data collection and on using RapidPro's API to create your own data visualizations. [PyData Carolinas Talk Recording](https://www.youtube.com/watch?v=aiJMjBq1Ork#t=11m28s).
 
 #### Pycon 2016: Leveraging Text Messaging in 2016 with RapidPro
 I submitted and co-presented at this talk in May 2016 at Pycon.
